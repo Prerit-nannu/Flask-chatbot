@@ -1,0 +1,216 @@
+[
+  {
+    "topic": "hi/ hello",
+    "question": [
+      "Hello",
+      "Hi"
+    ],
+    "answer": "Hello ! How can I help you ?"
+
+  },
+
+  {
+    "topic": "What is Python",
+    "question": [
+      "What is Python"
+
+    ],
+    "answer": "Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. It supports multiple programming paradigms beyond object-oriented programming, such as procedural and functional programming. Python combines remarkable power with very clear syntax. It has interfaces to many system calls and libraries, as well as to various window systems, and is extensible in C or C++. It is also usable as an extension language for applications that need a programmable interface. Finally, Python is portable: it runs on many Unix variants including Linux and macOS, and on Windows."
+  },
+
+  {
+    "topic": "Python Software Foundation",
+    "question": [
+      "What is the Python Software Foundation?"
+    ],
+    "answer": "The Python Software Foundation is an independent non-profit organization that holds the copyright on Python versions 2.1 and newer. The PSF’s mission is to advance open source technology related to the Python programming language and to publicize the use of Python.Donations to the PSF are tax-exempt in the US. If you use Python and find it helpful, please contribute via the PSF donation page."
+  
+  },
+
+  {
+    "topic": "copyright restrictions",
+    "question": [
+      "copyright restrictions",
+      "Are there copyright restrictions on the use of Python?"
+    ],
+    "answer": "You can do anything you want with the source, as long as you leave the copyrights in and display those copyrights in any documentation about Python that you produce. If you honor the copyright rules, it’s OK to use Python for commercial use, to sell copies of Python in source or binary form (modified or unmodified), or to sell products that incorporate Python in some form. We would still like to know about all commercial use of Python, of course.See the license page to find further explanations and the full text of the PSF License."
+  
+  },
+
+  {
+    "topic": " Python created first place?",
+    "question": [
+      "Why was Python created in the first place?"
+    ],
+    "answer": "I had extensive experience with implementing an interpreted language in the ABC group at CWI, and from working with this group I had learned a lot about language design. This is the origin of many Python features, including the use of indentation for statement grouping and the inclusion of very-high-level data types (although the details are all different in Python)."
+  
+  },
+  {
+    "topic": "Python good for",
+    "question": [
+      "What is Python good for"
+    ],
+    "answer": "Python is a high-level general-purpose programming language that can be applied to many different classes of problems. \n\nThe language comes with a large standard library that covers areas such as string processing (regular expressions, Unicode, calculating differences between files)"
+  },
+  {
+    "topic": "copy of Python source",
+    "question": [
+      "How do I obtain a copy of the Python source"
+    ],
+    "answer": "The latest Python source distribution is always available from python.org, at https://www.python.org/downloads/. The latest development sources can be obtained at https://github.com/python/cpython/. \n\n The source distribution is a gzipped tar file containing the complete C source, Sphinx-formatted documentation, Python library modules, example programs, and several useful pieces of freely distributable software. The source will compile and run out of the box on most UNIX platforms.\n\nConsult the Getting Started section of the Python Developer’s Guide for more information on getting the source code and compiling it."
+  
+  },
+
+  {
+    "topic": "Documentation on Python",
+    "question": [
+      "How do I get documentation on Python"
+    ],
+    "answer": "The standard documentation for the current stable version of Python is available at https://docs.python.org/3/. PDF, plain text, and downloadable HTML versions are also available at https://docs.python.org/3/download.html. \n\nThe documentation is written in reStructuredText and processed by the Sphinx documentation tool. The reStructuredText source for the documentation is part of the Python source distribution."
+  
+  },
+
+  {
+    "topic": "Python tutorial",
+    "question": [
+      "I’ve never programmed before. Is there a Python tutorial"
+    ],
+    "answer": "There are numerous tutorials and books available. The standard documentation includes The Python Tutorial.Consult the Beginner’s Guide to find information for beginning Python programmers, including lists of tutorials."
+  
+  },
+  
+  {
+    "topic": "beta test version",
+    "question": [
+      "How do I get a beta test version of Python"
+    ],
+    "answer": "Alpha and beta releases are available from https://www.python.org/downloads/. All releases are announced on the comp.lang.python and comp.lang.python.announce newsgroups and on the Python home page at https://www.python.org/; an RSS feed of news is available. \n\n You can also access the development version of Python through Git. See The Python Developer’s Guide for details."
+  },
+
+  {
+    "topic": "submit bug reports and patches",
+    "question": [
+      "How do I submit bug reports and patches for Python?"
+    ],
+    "answer": "To report a bug or submit a patch, use the issue tracker at https://github.com/python/cpython/issues. \n\nFor more information on how Python is developed, consult the Python Developer’s Guide."
+  
+  },
+
+  {
+    "topic": "newsgroup or mailing list",
+    "question": [
+      "Is there a newsgroup or mailing list devoted to Python"
+    ],
+    "answer": "There is a newsgroup, comp.lang.python, and a mailing list, python-list. The newsgroup and mailing list are gatewayed into each other – if you can read news it’s unnecessary to subscribe to the mailing list. comp.lang.python is high-traffic, receiving hundreds of postings every day, and Usenet readers are often more able to cope with this volume. \n\nAnnouncements of new software releases and events can be found in comp.lang.python.announce, a low-traffic moderated list that receives about five postings per day. It’s available as the python-announce mailing list."
+  
+  },
+
+  {
+    "topic": "published articles about Python",
+    "question": [
+      "Are there any published articles about Python that I can reference"
+    ],
+    "answer": "It’s probably best to cite your favorite book about Python. \n\n The very first article about Python was written in 1991 and is now quite outdated. \n\nGuido van Rossum and Jelke de Boer, “Interactively Testing Remote Servers Using the Python Programming Language”, CWI Quarterly, Volume 4, Issue 4 (December 1991), Amsterdam, pp 283–303."
+  
+  },
+
+  {
+    "topic": "books on Python",
+    "question": [
+      "Are there any books on Python"
+    ],
+    "answer": "Yes, there are many, and more are being published. See the python.org wiki at https://wiki.python.org/moin/PythonBooks for a list. \n\n You can also search online bookstores for “Python” and filter out the Monty Python references; or perhaps search for “Python” and “language”."
+  
+  },
+
+  {
+    "topic": "Where www.python.org located",
+    "question": [
+      "Where in the world is www.python.org located"
+    ],
+    "answer": "The Python project’s infrastructure is located all over the world and is managed by the Python Infrastructure Team. Details here."
+
+  },
+
+  {
+    "topic": "Why called Python",
+    "question": [
+      "Why is it called Python?"
+    ],
+    "answer": "When he began implementing Python, Guido van Rossum was also reading the published scripts from “Monty Python’s Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python."
+
+  },
+
+  {
+    "topic": "How stable is Python",
+    "question": [
+      "How stable is Python"
+    ],
+    "answer": "Very stable. New, stable releases have been coming out roughly every 6 to 18 months since 1991, and this seems likely to continue. As of version 3.9, Python will have a new feature release every 12 months (PEP 602). \n\nThe developers issue bugfix releases of older versions, so the stability of existing releases gradually improves. Bugfix releases, indicated by a third component of the version number (e.g. 3.5.3, 3.6.2), are managed for stability; only fixes for known problems are included in a bugfix release, and it’s guaranteed that interfaces will remain the same throughout a series of bugfix releases."
+
+  },
+
+  {
+    "topic": "people using Python",
+    "question": [
+      "How many people are using Python"
+    ],
+    "answer": "There are probably millions of users, though it’s difficult to obtain an exact count. \n\n Python is available for free download, so there are no sales figures, and it’s available from many different sites and packaged with many Linux distributions, so download statistics don’t tell the whole story either.\n\nThe comp.lang.python newsgroup is very active, but not all Python users post to the group or even read it."
+
+  },
+
+  {
+    "topic": "projects in Python",
+    "question": [
+      "Have any significant projects been done in Pytho"
+    ],
+    "answer": "See https://www.python.org/about/success for a list of projects that use Python. Consulting the proceedings for past Python conferences will reveal contributions from many different companies and organizations. \n\nHigh-profile Python projects include the Mailman mailing list manager and the Zope application server. Several Linux distributions, most notably Red Hat, have written part or all of their installer and system administration software in Pytho"
+
+  },
+
+  {
+    "topic": "New developments for Python in future",
+    "question": [
+      "What new developments are expected for Python in the futur"
+    ],
+    "answer": "See https://peps.python.org/ for the Python Enhancement Proposals (PEPs). PEPs are design documents describing a suggested new feature for Python, providing a concise technical specification and a rationale. Look for a PEP titled “Python X.Y Release Schedule”, where X.Y is a version that hasn’t been publicly released yet. \n\n New development is discussed on the python-dev mailing list."
+
+  },
+
+  {
+    "topic": "incompatible changes to Python",
+    "question": [
+      "Is it reasonable to propose incompatible changes to Python"
+    ],
+    "answer": "In general, no. There are already millions of lines of Python code around the world, so any change in the language that invalidates more than a very small fraction of existing programs has to be frowned upon. Even if you can provide a conversion program, there’s still the problem of updating all documentation; many books have been written about Python, and we don’t want to invalidate them all at a single stroke."
+
+  },
+
+  {
+    "topic": "Python good for beginning programmers?",
+    "question": [
+      "Is Python a good language for beginning programmers?"
+    ],
+    "answer": "Yes.\n\n It is still common to start students with a procedural and statically typed language such as Pascal, C, or a subset of C++ or Java. Students may be better served by learning Python as their first language. Python has a very simple and consistent syntax and a large standard library and, most importantly, using Python in a beginning programming course lets students concentrate on important programming skills such as problem decomposition and data type design. With Python, students can be quickly introduced to basic concepts such as loops and procedures. They can probably even work with user-defined objects in their very first course."
+
+  },
+
+
+  {
+    "topic": "who are you",
+    "question": [
+      "Who are You",
+      "How are you"
+    ],
+    "answer": "I am a Chatbot"
+
+  },
+
+  {
+    "topic": "help",
+    "question": [
+      "Help"
+    ],
+    "answer": "How can i help you"
+  }
+]
