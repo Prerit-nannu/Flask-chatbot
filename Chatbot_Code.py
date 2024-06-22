@@ -26,7 +26,7 @@ def load_faq_dataset_from_json(file_path):
         faq_dataset = json.load(json_file)
     return faq_dataset
 
-faq_dataset = load_faq_dataset_from_json('qna_(1).json')
+faq_dataset = load_faq_dataset_from_json('qna_2.json')
 topic_keywords = [entry['topic'] for entry in faq_dataset]
 
 # Define CSV file for feedback
